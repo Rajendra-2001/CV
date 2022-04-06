@@ -1,0 +1,29 @@
+
+body{
+    background-color:#E5EFC1;
+    }
+.Rajendra{
+    border-radius: 100%;
+}
+hr{
+        /* background-color: #557B83; */
+        /* border-style: dotted none none; */ /*1st way*/
+        /* height: 2px; */
+    width: 10%;
+    border-style: none;  /*2nd way */
+    border-color: #A2D5AB;
+    border-width: 5px;
+    border-top-style: dotted;
+        
+        
+}
+/* img:hover{
+    background-color: ghostwhite;
+} */
+h1{
+    color:#557B83;
+}
+h3{
+    color:#557B83;
+}
+
